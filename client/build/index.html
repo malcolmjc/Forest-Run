@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Forest Run Client</title>
+    <style type="text/css">
+        html {
+            background-color: #986d30;
+        }
+
+        .page-title {
+            color: #fff;
+        }
+
+        .flex {
+            display : flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .flex-column {
+            flex-direction : row;
+        }
+        .flex-wrap {
+            flex-wrap: wrap;
+        }
+
+        .flex-item {
+            flex-grow: 1;
+            height: 96vh;
+            width: 96vw;	
+        }
+
+        #game {
+            margin: auto;
+            display: block;
+        }
+    </style>
+
+    <link rel="icon" type="image/x-icon" href="../images/favicon.png" />
+</head>
+
+<body>
+    <!-- <audio autoplay>
+        <source src="ontheroadagain.mp3" type="audio/mp3">
+    </audio> -->
+
+    <div class="flex flex-wrap">
+        <div id="container" class="container game flex-item">
+            <canvas id="game"></canvas>
+        </div>
+    </div>
+    
+    <!-- <script src="build/main.js"></script> -->
+<script type="text/javascript" src="build/main.js"></script></body>
+
+</html>
