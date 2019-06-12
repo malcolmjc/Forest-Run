@@ -1,3 +1,4 @@
-# CSC308Project
-Code is currently in a private repository, but I will post it once development concludes.
-Check out a very (very) alpha build: https://forest-run-client.dokku.affinitymws.com/
+# Forest Run
+A project that I worked on with an agile team for 2 quarters.
+# Technologies
+TypeScript, Node.js
