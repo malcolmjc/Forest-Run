@@ -1,9 +1,6 @@
 # Forest Run Game Repository
 
-## Structure
-
-* [client](client)
-* [server](server)
+A project that I worked on with an agile team for 2 quarters.
 
 ## Installation
 
