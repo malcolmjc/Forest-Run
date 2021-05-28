@@ -52,6 +52,6 @@
     "nodemon": "^1.17.1",
     "selenium-webdriver": "^4.0.0-alpha.1",
     "serve-static": "^1.13.2",
-    "ws": "^5.0.0"
+    "ws": "^7.4.5"
   }
 }
