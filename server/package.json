@@ -27,7 +27,7 @@
         "colyseus": "~0.8.9",
         "cors": "~2.8.4",
         "dotenv": "^5.0.1",
-        "express": "~4.16.2",
+        "express": "~4.18.2",
         "nodemon": "~1.17.1",
         "pg": "*",
         "pg-format": "^1.0.4",
