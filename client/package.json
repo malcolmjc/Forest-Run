@@ -48,7 +48,7 @@
     "colyseus.js": "~0.8.3",
     "cors": "^2.8.4",
     "excalibur": "~0.14.0",
-    "express": "^4.16.2",
+    "express": "^4.17.3",
     "nodemon": "^1.17.1",
     "selenium-webdriver": "^4.0.0-alpha.1",
     "serve-static": "^1.13.2",
