@@ -24,7 +24,7 @@
         "typescript": "~2.7.1"
     },
     "dependencies": {
-        "colyseus": "~0.8.9",
+        "colyseus": "~0.14.24",
         "cors": "~2.8.4",
         "dotenv": "^5.0.1",
         "express": "~4.16.2",
